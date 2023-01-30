@@ -27,3 +27,17 @@ h1 {
 .yellow-bg {
     background-color: yellow;
 }
+.tab {
+    min-width: 300px;
+}
+th.tab {
+    text-align: left;
+    color: white;
+    background-color: blue;
+}
+.aqua {
+    background-color: aqua;
+} 
+.light-blue {
+    background-color: lightblue;
+}
