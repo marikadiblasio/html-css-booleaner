@@ -3,6 +3,7 @@
     background-image: url("../img/pattern.png");
     background-size: 25%;
     background-repeat: repeat;
+    margin-top: 0;
 }
 .logo-img {
     width: 15%;
@@ -22,6 +23,9 @@ h1 {
 }
 .fig-marg {
     margin-left: 0;
+}
+    
+.ul-pad {
     padding-left: 10px;
 }
 .yellow-bg {
@@ -40,4 +44,24 @@ th.tab {
 } 
 .light-blue {
     background-color: lightblue;
+}
+.first-foot-p {
+    color: rgb(83, 80, 80);
+    font-weight: 900;
+}
+.foot-img1 {
+    background-image: url("../img/monitor.jpg");
+    margin-top: 5px;
+    width: 312px;
+    height: 208px;
+}
+.foot-p {
+    font-weight: 800;
+    color: white;
+}
+.foot-img2 {
+    margin-top: 5px;
+    background-image: url("../img/graph.jpg");
+    width: 311px;
+    height: 207px;
 }
