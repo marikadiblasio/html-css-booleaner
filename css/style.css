@@ -1,0 +1,11 @@
+.logo-bg {
+    background-color: #2596be;
+    background-image: url("../img/pattern.png");
+    background-size: 30%;
+    background-repeat: repeat;
+}
+.logo-img {
+    width: 25%;
+    margin-top: 3%;
+    margin-left: 5px;
+}
