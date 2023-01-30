@@ -22,4 +22,8 @@ h1 {
 }
 .fig-marg {
     margin-left: 0;
+    padding-left: 10px;
+}
+.yellow-bg {
+    background-color: yellow;
 }
